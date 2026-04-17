@@ -13,4 +13,4 @@ Tugas praktikum Minggu 4 - State & Events.
 
 ## 🔗 Demo
 [Cek di Expo Snack]
-(https://snack.expo.dev/@niell77/magic-dashboard)
+https://snack.expo.dev/@niell77/magic-dashboard
